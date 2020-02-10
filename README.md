@@ -10,10 +10,13 @@ This notebooks aims to answer the below questions:
     3. How have average house prices faired the last 12 months and when is the best time of the year to sell?
     4. Identify the average price and average transactions per zipcode. Determine if there's any relationship between them
     
-Pre-analysis, executed data cleaning including removing duplicates, filling null values, changing data types, checking and removing outliers as well as some simple form of feature engineering. Subsequently proceeded to execute some basic data visualisation and EDA. Post data-cleaning and EDA, I applied a basic simple and multiple regression analysis to determine if there are any meaningful predictive house features that can be extracted.  
+Pre-analysis, we executed various data cleaning initiatives including removing duplicates, filling null values, changing data types, identifying and removing outliers as well as some simple form of feature engineering. We, subsequently proceeded to execute some basic data visualisation and EDA followed by applying a basic simple & multiple regression analysis to determine if there are any meaningful predictors in determining house prices.
 
-Question 1 was solved using a combination of using a correlation matrix, simple and multiple linear regression. Whilst obtaining a 70% R2 for the multiple regression model, there remains several pitfalls (explained in the notebook) which might suggest linear regression may not be the ideal model.
+Question 1 was solved using a combination of using a correlation matrix, simple and multiple linear regression. Whilst obtaining a 70% R2 for the multiple regression model, there remains several pitfalls which might suggest linear regression (future work to include polynomials and iteractions) may not be the ideal model.
 
-Question 2, 3 and 4 were basically solved through some data manipulation through panda groupby methods as well as an extensive use of visualisation packages. One issue encountered was the different methods of visualising data and hence can be fairly confusing and time consuming at times.
+Question 2, 3 and 4 were primarily solved through some data manipulation and visualized through various visualisation packages. 
 
-We hope you will find some insightful details in this notebook and will be happy to answer any questions you might have. Thank you.
+We hope you will find some insightful details in this notebook and will be happy to answer any questions you might have. 
+
+Thank you.
+
