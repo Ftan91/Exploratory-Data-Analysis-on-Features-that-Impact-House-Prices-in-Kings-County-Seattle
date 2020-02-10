@@ -5,6 +5,7 @@ Executive Summary:
 The Kings County dataset contains house sale prices for Kings County in Seattle. It includes homes sold between May 2014 and May 2015. Alongside sale price, dataset also contains various attributes of each house sold such as number of rooms, square foot and location.
 
 This notebooks aims to answer the below questions:
+
     1. What are the top 6 house features that are the most important in determining house prices
     2. How much in average is the price difference between waterfront houses and non-waterfront houses
     3. How have average house prices faired the last 12 months and when is the best time of the year to sell?
@@ -19,4 +20,3 @@ Question 2, 3 and 4 were primarily solved through some data manipulation and vis
 We hope you will find some insightful details in this notebook and will be happy to answer any questions you might have. 
 
 Thank you.
-
