@@ -1,4 +1,4 @@
-# Project-1---Kings-County-House-Dataset
+# Predicting House Prices in Kings County, Seattle
 
 Project members: Finn and Thomas
 
